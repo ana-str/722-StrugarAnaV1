@@ -1,5 +1,5 @@
 package model;
 
-public class Unternehmensgröße {
+public enum Unternehmensgröße {
     Small, Medium, Large
 }
